@@ -113,3 +113,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+lib64
+include
+lib
+bin
+!bin/setup.sh
